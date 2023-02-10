@@ -10,11 +10,9 @@ For this project, you’ll design the tables to hold the data from the CSV files
 This Challenge is divided into three parts: data modeling, data engineering, and data analysis.
 
 ### Data Modeling
-___________________
 1. Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables.
 
 ### Data Engineering
-______________________
 *Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
 
 *Remember to specify the data types, primary keys, foreign keys, and other constraints.
@@ -27,7 +25,6 @@ ______________________
 
 
 ### Data Analysis
-___________________
 1. List the employee number, last name, first name, sex, and salary of each employee.
 
 2. List the first name, last name, and hire date for the employees who were hired in 1986.
