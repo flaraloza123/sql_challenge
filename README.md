@@ -11,7 +11,7 @@ This Challenge is divided into three parts: data modeling, data engineering, and
 
 ### Data Modeling
 1. Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables.
-![Sketch Image](./images/Sketch.png)
+![Sketch](images/Sketch.jpeg)
 ### Data Engineering
 *Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
 
